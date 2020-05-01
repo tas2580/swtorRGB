@@ -21,3 +21,7 @@ Display the fight status of Star Wars: The Old Republic to <a href="https://www.
   - Linked devices
 - Hyperion Ambilight
 - Window on second screen
+
+
+## LICENSE
+<a href="http://opensource.org/licenses/gpl-2.0.php">GNU General Public License v2</a>
